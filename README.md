@@ -1,2 +1,18 @@
-# E-28_Voltmeter
-These are the design files for the Voltmeter (E-28).
+# E-28 Voltmeter
+
+![Voltmeter](https://live.staticflickr.com/65535/40778036913_7c16bc9b4b_k.jpg)
+![Voltmeter](https://live.staticflickr.com/65535/32801180867_2c5fd2110c_k.jpg)
+
+The Voltmeter connects to an EZ-B ADC port. The idea is that an EZ-Builder app would take the analog data and convert it into voltage in order to measure the source voltage of a supply or signal. 
+
+## Contents
+
+**Documentation:** Schematic PDF, Datasheet PDF, BOM
+
+**Hardware:** Altium PCB design File, Altium SCH Design File
+
+## License
+
+For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else party on!
+
+Please see LICENSE.md for license details.
