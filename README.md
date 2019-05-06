@@ -16,3 +16,5 @@ The Voltmeter connects to an EZ-B ADC port. The idea is that an EZ-Builder app w
 For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else party on!
 
 Please see LICENSE.md for license details.
+
+Synthiam Website: https://synthiam.com
