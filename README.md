@@ -9,7 +9,7 @@ The Voltmeter connects to an EZ-B ADC port. The idea is that an EZ-Builder app w
 
 **Documentation:** Schematic PDF, BOM
 
-**Hardware:** Altium PCB design File, Altium SCH Design File
+**Hardware:** Altium PCB design File, Altium SCH Design File, Gerbers
 
 ## License
 
