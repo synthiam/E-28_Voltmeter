@@ -5,7 +5,9 @@
 
 The Voltmeter connects to an EZ-B ADC port. The idea is that an EZ-Builder behavior control can take the analog data and convert it into voltage in order to measure the source voltage of a supply or signal. 
 
-Relevant behavior controls can be found here: https://synthiam.com/Products/Controls/Adc
+A unique feature of this design is that it has reverse polarity protection. The PCB can also be used with Banana jacks or without.
+
+Relevant EZ-Builder behavior controls can be found here: https://synthiam.com/Products/Controls/Adc
 
 ## Contents
 
