@@ -54,11 +54,11 @@ This Roll Out video includes:
 
 Link: https://youtu.be/czC40y7L5Ys
 
-<a href="https://youtu.be/czC40y7L5Ys"><img src="https://media.giphy.com/media/Y4uEJPrT9TkfYB4xYD/giphy.gif" width="683" height="383"></a>
+<a href="https://youtu.be/czC40y7L5Ys"><img src="https://media.giphy.com/media/Y4uEJPrT9TkfYB4xYD/giphy.gif" width="683" height="383"></a> 
 
 ## EZ-Builder Behavior Control
 
-The EZ-Builder ADC behavior controls are very easy to use with the Voltmeter. Read or graph the voltage values with a simple click of a mouse button or with code. 
+The EZ-Builder ADC behavior controls are very easy to use with the Voltmeter. Read or graph the voltage values with the simple click of a mouse button or with code. 
 
 Link: https://synthiam.com/Products/Controls/Adc
 
