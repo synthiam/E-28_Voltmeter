@@ -54,7 +54,7 @@ This Roll Out video includes:
 
 Link: https://youtu.be/czC40y7L5Ys
 
-<a href="https://youtu.be/czC40y7L5Ys"><img src="E-28_Voltmeter/blob/master/E-28.gif" width="683" height="383"></a> 
+<a href="https://youtu.be/czC40y7L5Ys"><img src="E-28.gif" width="683" height="383"></a> 
 
 ## EZ-Builder Behavior Control
 
