@@ -17,7 +17,8 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 - Green Power LED
 - Voltage requirement: 0-17.5VDC input
 - Wire Length: 34"
-- Dimensions: 26.3(W) x 30.8(L) x 9.2(H) (mm) PCB 
+- Dimensions: 26.3(W) x 30.8(L) x 9.2(H) (mm) PCB
+- Weight: 58g
 
 **Major components:** 
 - D2275 Set of Multimeter probes
