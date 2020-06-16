@@ -48,7 +48,7 @@ This Roll Out video includes:
 
 1. Feature set 
 2. Hook-up guide 
-3. Using Synthiam EZ-Builder Software Behavior Controls
+3. Using ARC Skills
 4. Schematic overview
 5. Bill of Materials (BOM) overview
 6. Assembly instructions
@@ -59,7 +59,7 @@ Link: https://youtu.be/czC40y7L5Ys
 
 ## ARC Skill
 
-The ARC ADC skils are very easy to use with the Voltmeter. Read or graph the voltage values with the simple click of a mouse button or with code. 
+The ARC ADC skills are very easy to use with the Voltmeter. Read or graph the voltage values with the simple click of a mouse button or with code. 
 
 Link: https://synthiam.com/Products/Controls/Adc
 
